@@ -1,6 +1,6 @@
 package store.order;
 
 public record OrderIn(
-        String id,
+        String nome,
         double total) {
 }

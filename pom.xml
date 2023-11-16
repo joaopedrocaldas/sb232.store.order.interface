@@ -12,7 +12,7 @@
 	<artifactId>order-interface</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>product</name>
-	<description>Projeto para exemplo de produtos na ESPM</description>
+	<description>Projeto para exemplo de order na ESPM</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2022.0.4</spring-cloud.version>
